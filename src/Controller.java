@@ -8,33 +8,33 @@ public class Controller {
     private View view;
 
     public Controller(Model model, View view) {
-        this.model = model; // Khởi tạo Controller với Model và View
+        this.model = model; // Initialize Controller with Model and View
         this.view = view;
     }
 
     public void addLine(String line) {
-        model.addLine(line); // Thêm một dòng vào Model
+        model.addLine(line); // Add a line to the Model
     }
 
     public void loadFromFile(File file) throws IOException {
-        model.loadFromFile(file); // Nạp dữ liệu từ tệp vào Model
+        model.loadFromFile(file); // Load data from file into the Model
     }
 
     public void saveToFile(File file) throws IOException {
-        model.saveToFile(file); // Lưu dữ liệu từ Model vào tệp
+        model.saveToFile(file); // Save data from the Model to file
     }
 
     public void displayLines() {
-        view.displayLines(model.getLines()); // Hiển thị các dòng từ Model sử dụng View
+        view.displayLines(model.getLines()); // Display lines from the Model using the View
     }
 
     public List<String> getLines() {
-        return model.getLines(); // Trả về danh sách các dòng từ Model
+        return model.getLines(); // Return a list of lines from the Model
     }
 
     public void addLines(List<String> lines) {
         for (String line : lines) {
-            model.addLine(line); // Thêm danh sách các dòng vào Model
+            model.addLine(line); // Add a list of lines to the Model
         }
     }
 }

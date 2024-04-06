@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbffb08f-9e41-4d83-a082-97543c7ff4a4" name="Changes" comment="error_fixed">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Capture/input off.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Capture/input on.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/View.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/output.txt" afterDir="false" />
-    </list>
+    <list default="true" id="fbffb08f-9e41-4d83-a082-97543c7ff4a4" name="Changes" comment="new update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -72,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1712318242188</updated>
       <workItem from="1712318243214" duration="977000" />
-      <workItem from="1712411518822" duration="1182000" />
+      <workItem from="1712411518822" duration="1508000" />
     </task>
     <task id="LOCAL-00001" summary="error_fixed">
       <option name="closed" value="true" />
@@ -90,7 +81,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712319380074</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new update">
+      <option name="closed" value="true" />
+      <created>1712412996543</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712412996543</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +97,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="error_fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="error_fixed" />
+    <MESSAGE value="new update" />
+    <option name="LAST_COMMIT_MESSAGE" value="new update" />
   </component>
 </project>
